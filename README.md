@@ -20,7 +20,7 @@ Este proyecto es una aplicación de consola en Python que permite gestionar un i
 ## 🛠️ Requisitos
 
 - Python 3.x
-- MySQL instalado y corriendo
+- MySQL instalado
 - Librería `mysql-connector-python`
 
 ## ▶️ Cómo usarlo
